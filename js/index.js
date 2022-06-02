@@ -26,3 +26,40 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+
+<main id="main-doc">
+      <section id="Javascript_and_Java" class="main-section">
+        <h2>Javascript and Java</h2>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <nav id="navbar"><h3>It is a project</h3><a class="nav-link"href="#Javascript_and_Java"></a><div>js</div></nav>
+        <code></code>
+        <code></code>
+      </section>
+      <section id="Cats_and_Dogs" class="main-section">
+        <h3>Cats and Dogs</h3>
+        <p></p>
+        <p></p>
+        <p></p>
+        <nav id="navbar"><h3>It is a project</h3><a class="nav-link" href="#Cats_and_Dogs"></a><div>dogs and cats</div></nav>
+        <code></code>
+        <code></code>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </section>
+      <section id="Cell_Phones" class="main-section">
+        <h4>Cell Phones</h4>
+        <p></p>
+        <p></p>
+        <p></p>
+        <nav id="navbar"><h3>It is a project</h3><a class="nav-link" href="#Cell_Phones"></a><div>samsung</div></nav>
+        <code></code>
+      </section>
+    </main>
